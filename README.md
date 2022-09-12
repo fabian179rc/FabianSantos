@@ -2,10 +2,10 @@
 <h3 align="center";color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
 <br>
 
-<p>Un poco sobre mi:</p>
-Me gusta..
-<br>
-
+Un poco sobre mi:
+<br>                                     
+Me gusta...
+                                       
 <ul>
 <li>La Programacion 💻</li>
 <li>Las Finanzas 💰</li>
@@ -16,7 +16,6 @@ Me gusta..
 <br>
 
 Prefiero...
-<br>
 <ul>
 <li>Codear con musica instrumental 🎻</li> 
 <li>Lo dulce 🍫</li>
@@ -25,11 +24,11 @@ Prefiero...
 <br>
 
 Que estoy haciendo...
-<br>
 <ul>
 <li>Proyecto personal de animales extraviados y adopciones 🐕‍🦺</li>
 <li>Buscando trabajo luego de SoyHenry 🙋🏽‍♂️</li>
 <li>Aprendiendo cada dia un poquito mas 📖</li>
+</ul>
 <br>
 
 <h3 align="center">Queres saber mas de mi? 👇🏽</h3>
@@ -83,6 +82,7 @@ Contactame...
       <li><img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="40" height="40"/> Sequelize</li>
     </p>
     <br>
+    </ul>
   <li >Front-end</li>
     <br>
       <p>
@@ -93,5 +93,4 @@ Contactame...
         <li><img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="syledcomponents" width="40" height="30"/> CSS Styled Components</li>
       </ul>
       </p>
-
 </ul>
