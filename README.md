@@ -42,7 +42,7 @@ Contactame...
 <br>
 
 <h3 align="center">Skills / Habilidades 🚀</h3>
-
+</ul>
 <li >Lenguajes</li>
     <br>
     <p>
@@ -53,26 +53,18 @@ Contactame...
       </ul>
     </p>
     <br>
-  <li >Herramientas de Trabajo</li>
+      <li >Front-end</li>
     <br>
-    <p>
-    <ul>
-      <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git & GitFlow</li>
-      <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman</li>
-      <li><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> Heroku</li>
-      <li><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" alt="render" width="40" height="40"/> Render</li>
-      <li><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40"/> Vercel</li>
-    </ul>
-    </p>
-    <br>
-  <li >DDBB</li>
-    <br>
-    <p>
+      <p>
       <ul>
-      <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgresql </li>
-    </ul>
-    </p>
-    <br>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React JS</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux JS</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap</li>
+        <li><img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="syledcomponents" width="40" height="30"/> CSS Styled Components</li>
+      </ul>
+      </p>
+
+
   <li >Back-end</li>
     <br>
     <p>
@@ -83,14 +75,24 @@ Contactame...
     </p>
     <br>
     </ul>
-  <li >Front-end</li>
+  <li >DDBB</li>
     <br>
-      <p>
+    <p>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React JS</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux JS</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap</li>
-        <li><img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="syledcomponents" width="40" height="30"/> CSS Styled Components</li>
-      </ul>
-      </p>
-</ul>
+      <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgresql </li>
+    </ul>
+    </p>
+<br>
+  <li >Herramientas de Trabajo</li>
+    <br>
+    <p>
+    <ul>
+      <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git & GitFlow</li>
+      <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman</li>
+       <li><a href="https://www.thunderclient.com/" target="_blank"> <img src="https://img.stackshare.io/service/25390/default_b75b4798687f3a8ac77b1c03ce99c60560b06ccb.jpg" alt="thunderClient" width="40" height="40"/> </a> </li>
+      <li><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> Heroku</li>
+      <li><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" alt="render" width="40" height="40"/> Render</li>
+      <li><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40"/> Vercel</li>
+    </ul>
+    </p>
+    <br>
