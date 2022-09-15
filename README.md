@@ -71,7 +71,6 @@ Contactame...
     <ul>
       <li><img src="https://e7.pngegg.com/pngimages/846/87/png-clipart-mean-solution-stack-express-js-node-js-javascript-github-text-trademark.png" alt="express" width="45" height="30"/> Express</li>
       <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> NodeJS</li>
-      <li><img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="40" height="40"/> Sequelize</li>
     </p>
     <br>
     </ul>
@@ -79,7 +78,7 @@ Contactame...
     <br>
     <p>
       <ul>
-      <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgresql </li>
+      <li><img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="40" height="40"/> Sequelize</li>
     </ul>
     </p>
 <br>
@@ -89,7 +88,7 @@ Contactame...
     <ul>
       <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git & GitFlow</li>
       <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman</li>
-       <li><a href="https://www.thunderclient.com/" target="_blank"> <img src="https://img.stackshare.io/service/25390/default_b75b4798687f3a8ac77b1c03ce99c60560b06ccb.jpg" alt="thunderClient" width="40" height="40"/> </a> </li>
+       <li><a href="https://www.thunderclient.com/" target="_blank"> <img src="https://img.stackshare.io/service/25390/default_b75b4798687f3a8ac77b1c03ce99c60560b06ccb.jpg" alt="thunderClient" width="40" height="40"/> </a>ThunderClient </li>
       <li><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> Heroku</li>
       <li><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" alt="render" width="40" height="40"/> Render</li>
       <li><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40"/> Vercel</li>
