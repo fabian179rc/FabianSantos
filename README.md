@@ -26,7 +26,7 @@ Prefiero...
 Que estoy haciendo...
 <ul>
 <li>Proyecto personal de animales extraviados y adopciones 🐕‍🦺</li>
-<li>Buscando trabajo luego de SoyHenry 🙋🏽‍♂️</li>
+<li>Buscando trabajo donde aportar mi valor 🏽‍♂️</li>
 <li>Aprendiendo cada dia un poquito mas 📖</li>
 </ul>
 <br>
