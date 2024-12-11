@@ -64,6 +64,7 @@ Contactame...
       </ul>
       </p>
 
+<br>
 
   <li >Back-end</li>
     <br>
@@ -94,6 +95,7 @@ Contactame...
   </ul>
 </p>
 
+<br>
 
 <li>Cloud Platforms</li>
 <br>
