@@ -37,7 +37,7 @@ Que estoy haciendo...
 Contactame...
 <br>
 <ul> 
-<li> <a href="https:/www.linkedin.com/in/santosfabian/">LinkedIn</a> <img height=15 width=20 src="https:/www.linkedin.com/in/santosfabian/" alt="https:/www.linkedin.com/in/santosfabian/"/></li>
+<li> <a href="https://www.linkedin.com/in/santosfabian/" target="_blank">LinkedIn</a> <img height=15 width=20 src="https:/www.linkedin.com/in/santosfabian/" alt="https:/www.linkedin.com/in/santosfabian/"/></li>
 <li><a href="mailto:fabianjesussantos@gmail.com">Email 📩</a></li>
 <br>
 
