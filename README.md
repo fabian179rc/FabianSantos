@@ -93,6 +93,20 @@ Contactame...
   </ul>
 </p>
 
+<li>Cloud Platforms</li>
+<br>
+<p>
+  <ul>
+    <li>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> AWS
+    </li>
+    <li>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Cloud_logo.svg" alt="Google Cloud" width="40" height="40"/> Google Cloud
+    </li>
+  </ul>
+</p>
+
+
 <br>
   <li >Herramientas de Trabajo</li>
     <br>
