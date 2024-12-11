@@ -1,5 +1,5 @@
-<h1 align="center">Bienvenid@! Soy Fabian Santos👋</h1>
-<h3 align="center";color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
+<h1 align="center">Buenas! Soy Fabi👋</h1>
+<h3 align="center";color: rgb(251, 255, 0);">Backend - Full Stack Developer</h3>
 <br>
 
 Un poco sobre mi:
