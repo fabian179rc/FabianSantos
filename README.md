@@ -74,6 +74,7 @@ Contactame...
     </p>
     <br>
     </ul>
+    
  <li>DDBB</li>
 <br>
 <p>
@@ -92,6 +93,7 @@ Contactame...
     </li>
   </ul>
 </p>
+
 
 <li>Cloud Platforms</li>
 <br>
