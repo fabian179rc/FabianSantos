@@ -74,13 +74,25 @@ Contactame...
     </p>
     <br>
     </ul>
-  <li >DDBB</li>
-    <br>
-    <p>
-      <ul>
-      <li><img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize" width="40" height="40"/> Sequelize</li>
-    </ul>
-    </p>
+ <li>DDBB</li>
+<br>
+<p>
+  <ul>
+    <li>
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="Sequelize" width="40" height="40"/> Sequelize
+    </li>
+    <li>
+      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/> MySQL
+    </li>
+    <li>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL
+    </li>
+    <li>
+      <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="40" height="40"/> MongoDB
+    </li>
+  </ul>
+</p>
+
 <br>
   <li >Herramientas de Trabajo</li>
     <br>
