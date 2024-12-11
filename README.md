@@ -25,8 +25,8 @@ Prefiero...
 
 Que estoy haciendo...
 <ul>
-<li>Proyecto personal de animales extraviados y adopciones 🐕‍🦺</li>
-<li>Buscando trabajo donde aportar mi valor 🏽‍♂️</li>
+<li>Soy Backend Developer en Finnix.ai</li>
+<li>Ademas realizo proyectos propios para Arbitraje de Cryptos</li>
 <li>Aprendiendo cada dia un poquito mas 📖</li>
 </ul>
 <br>
